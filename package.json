@@ -1,8 +1,12 @@
 {
-  "name": "@traibot/shared",
+  "name": "traibot-shared",
   "version": "1.0.0",
   "main": "src/index.ts",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/progresak/traibot-shared.git"
+  },
   "author": {
     "email": "kratochvil.lukas9@gmail.com",
     "name": "Progresak"
