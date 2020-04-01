@@ -1,0 +1,16 @@
+{
+  "name": "@traibot/shared",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "author": {
+    "email": "kratochvil.lukas9@gmail.com",
+    "name": "Progresak"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
